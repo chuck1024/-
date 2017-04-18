@@ -1,0 +1,2 @@
+business-order-app /app/non-core/
+luckymoney-paycore-app /app/non-core/
