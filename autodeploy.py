@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
+
+__author__='chuck'
+
 from fabric.api import *
 from fabric.context_managers import *
 from fabric.contrib.console import confirm
