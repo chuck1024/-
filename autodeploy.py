@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
-__author__='chuck'
+__author__='chuck1024'
 
 from fabric.api import *
 from fabric.context_managers import *
